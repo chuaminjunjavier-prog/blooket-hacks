@@ -15,7 +15,7 @@
                 let amount = Number(parseFloat(prompt('How much crypto do you want?')));
                 reactHandler().stateNode.setState({ crypto2: amount, crypto: amount });
         
-                alert('Crypto added!');
+                alert('Crypto added 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
             };
 })();
 
@@ -52,3 +52,4 @@ function footer() {
 };
 
 footer();
+
